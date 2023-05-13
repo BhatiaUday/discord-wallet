@@ -3,9 +3,8 @@ import os
 
 userwallet = "2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv"
 tokenmint = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-rpc="https://bitter-newest-lake.solana-mainnet.discover.quiknode.pro/dc95a531b9b8cad9bf3084163513e413f54aa9f1/"
-
-url = os.getenv("https://bitter-newest-lake.solana-mainnet.discover.quiknode.pro/dc95a531b9b8cad9bf3084163513e413f54aa9f1/")
+rpc=""
+url = os.getenv("")
 headers = {"accept": "application/json", "content-type": "application/json"}
 
 payload = {
